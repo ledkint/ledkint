@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [MidLearning - a Midjourney style references, prompts and sref codes library](https://www.midlearning.com)
 
+- 📘 Im also the developer of [Estudo Resumido](https://www.estudoresumido.com/)
+
 - 🌱 Planning to create an app dedicated to fundamental stock analysis, powered by AI.
 
 - 💬 Ask me about **nextJS and tailwind**
