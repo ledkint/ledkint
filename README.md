@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [MidLearning - a Midjourney style references, prompts and sref codes library](https://www.midlearning.com)
 
-- 📘 Im also the developer of the educational webiste [Foco Passar](https://www.focopassar.com/)
+- 📘 Im also the developer of the educational webiste [Foco em Passar](https://www.focoempassar.com/)
 
 - 💬 Ask me about **nextJS and tailwind**
